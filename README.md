@@ -19,4 +19,4 @@ Currently learning Laravel & Flutter
 
 ### :wave: Say hello to me :)
 [![gmail](https://img.shields.io/badge/id.sofiangrh@gmail.com-0e3e55?style=flat&logo=Gmail&logoColor=white)](mailto:id.sofiangrh@gmail.com)
-[![telegram](https://img.shields.io/badge/@sofiangrh-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/sofiangth)
+[![telegram](https://img.shields.io/badge/@sofiangrh-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/sofiangrh)
