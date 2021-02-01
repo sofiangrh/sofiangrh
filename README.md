@@ -1,5 +1,5 @@
-### Hello there! I'm Sofian 
-:seedling: Currently learning Laravel & Flutter
+### :seedling: Hello there! I'm Sofian 
+Currently learning Laravel & Flutter
 
 ### :hammer_and_wrench: Tech Stack
 ![Ubuntu GNU/Linux](https://img.shields.io/badge/Ubuntu_GNU/Linux-20.04-orange?style=flat&logo=ubuntu)
