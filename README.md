@@ -1,4 +1,4 @@
-### Hello, there! I'm Sofian :wave:
+### Hello there! I'm Sofian 
 :seedling: Currently learning Laravel & Flutter
 
 ### :hammer_and_wrench: Tech Stack
@@ -14,9 +14,9 @@
 ![Markdown](https://img.shields.io/badge/Markdown-1.0.1-yellowgreen?style=flat&logo=markdown)
 ![Jekyll](https://img.shields.io/badge/Jekyll-V4.2.0-red?style=flat&logo=jekyll)
 
-### Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiangrh&layout=compact&exclude_repo=sofiangrh.github.io&theme=gotham)]
+### :keyboard: Analytics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiangrh&layout=compact&exclude_repo=sofiangrh.github.io&theme=gotham)
 
-### Say hello to me :)
+### :wave: Say hello to me :)
 [![gmail](https://img.shields.io/badge/id.sofiangrh@gmail.com-0e3e55?style=flat&logo=Gmail&logoColor=white)](mailto:id.sofiangrh@gmail.com)
 [![telegram](https://img.shields.io/badge/@sofiangrh-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/sofiangth)
