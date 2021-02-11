@@ -1,7 +1,7 @@
-### :seedling: Hello there! I'm Sofian 
-Currently learning Laravel & Flutter
+### About me
+I'm a freelance web developer, also interested with UX/UI design.
 
-### :hammer_and_wrench: Tech Stack
+### Tech Stack
 ![Ubuntu GNU/Linux](https://img.shields.io/badge/Ubuntu_GNU/Linux-20.04-orange?style=flat&logo=ubuntu)
 ![Slackware GNU/Linux](https://img.shields.io/badge/Slackware_GNU/Linux-14.2-blue?style=flat&logo=slackware&logoColor=556DB7)
 ![Java](https://img.shields.io/badge/Java-SE11-yellowgreen?style=flat&logo=java&logoColor=A4A62B)
@@ -14,9 +14,9 @@ Currently learning Laravel & Flutter
 ![Markdown](https://img.shields.io/badge/Markdown-1.0.1-yellowgreen?style=flat&logo=markdown)
 ![Jekyll](https://img.shields.io/badge/Jekyll-V4.2.0-red?style=flat&logo=jekyll)
 
-### :keyboard: Analytics
+### Analytics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiangrh&layout=compact&exclude_repo=sofiangrh.github.io&theme=gotham)
 
-### :wave: Talk to me
+### Talk to me
 [![gmail](https://img.shields.io/badge/id.sofiangrh@gmail.com-555555?style=flat&logo=Gmail&logoColor=white)](mailto:id.sofiangrh@gmail.com)
 [![telegram](https://img.shields.io/badge/@sofiangrh-555555?style=flat&logo=Telegram&logoColor=white)](https://t.me/sofiangrh)
