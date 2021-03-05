@@ -1,5 +1,5 @@
 ### About me
-I'm a freelance web developer, also interested with UX/UI design.
+I'm a web developer, and also a freelance UX/UI designer.
 
 ### Tech Stack
 ![Ubuntu GNU/Linux](https://img.shields.io/badge/Ubuntu_GNU/Linux-20.04-orange?style=flat&logo=ubuntu)
